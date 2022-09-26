@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>940143672390-rm7e9ckc4ejfsciskoek96ckid8cks7b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.940143672390-rm7e9ckc4ejfsciskoek96ckid8cks7b</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>940143672390-kstdo327fsa0tklenps30crttgr3knb7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAgFJvzjkuXTB_PjiXo06kw-2p20O2SJKg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>940143672390</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.dengalogistics</string>
+	<key>PROJECT_ID</key>
+	<string>denga-logistics-99f9e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>denga-logistics-99f9e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:940143672390:ios:898c3259ff841df8f69e47</string>
+</dict>
+</plist>
